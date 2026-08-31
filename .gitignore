@@ -1,0 +1,12 @@
+# Foundry: dependencies fetched via `forge install` and build artifacts.
+# Not committed to keep this journal focused on the .sol files written by hand.
+lib/
+cache/
+out/
+broadcast/*/31337/
+broadcast/**/dry-run/
+
+# Env files
+.env
+.env.*
+!.env.example
