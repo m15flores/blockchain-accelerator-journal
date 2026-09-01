@@ -17,4 +17,5 @@ module-N-short-name/
 ```
 
 ## Extended projects
-*(linked here once an exercise grows into its own repo with a backend/infra/security layer)*
+
+- **Cryptobank → ERC-20 migration**: [cryptobank-erc20](https://github.com/m15flores/cryptobank-erc20) — original exercise migrated from native ETH to a custom ERC-20 token, with `Ownable`, `SafeERC20`, and a full Foundry test suite.
