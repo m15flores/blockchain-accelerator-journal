@@ -1,0 +1,11 @@
+{
+    "name": "Blockchain Accelerator NFT 1",
+    "description": "NFT Collection by Blockchain Accelerator",
+    "image": "ipfs://bafkreicyvtpsoygbakkzasfwbdo7gbejsjcbxlqej63i3tqnbghcjvsrpe",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "1"
+        }
+    ]
+}
